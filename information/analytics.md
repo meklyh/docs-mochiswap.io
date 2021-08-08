@@ -10,6 +10,7 @@ You can track your favourite tokens right from Mochiswap:
 * \*\*\*\*[**Accounts**](https://analytics.mochiswap.io/accounts)\*\*\*\*
 
 {% hint style="danger" %}
-**Due to increasingly more traffic on the Harmony blockchain, sometimes the subgraph falls out of sync and the node has to catch back up again with the current block. The Mochi team is doing its best to keep the analytics up at all times!**
+**Due to increasing traffic and therefore load on the Harmony blockchain, sometimes the subgraph falls out of sync and the node has to catch back up again with the current block. Please be patient. 
+The Mochi team is doing its best to keep the analytics up at all times!**
 {% endhint %}
 
